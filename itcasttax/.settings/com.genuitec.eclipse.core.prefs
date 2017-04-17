@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=test/applicationContext.xml,src/cn/itcast/nsfw/complain/conf/complain-spring.xml,src/cn/itcast/nsfw/role/conf/role-spring.xml,src/cn/itcast/login/conf/login-struts.xml,test/test/conf/test-spring.xml,src/cn/itcast/nsfw/home/conf/home-struts.xml,config/applicationContext.xml,src/cn/itcast/nsfw/complain/conf/user-spring.xml,src/cn/itcast/nsfw/user/conf/user-spring.xml,test/struts.xml,WebRoot/js/jquery/jquery-1.10.2.min.js,WebRoot/js/utf8-jsp,src/cn/itcast/nsfw/info/conf/info-spring.xml
+validator.Unchecked=

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+          "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+  
+  <!-- 动态访问 -->
+  <constant name="struts.enable.DynamicMethodInvocation" value="false"></constant>
+  <!-- 开发者模式 -->
+  <constant name="struts.devMode" value="true"></constant>
+  <!-- 访问后缀 -->
+  <constant name="struts.action.extension" value="action"></constant>
+  <!-- struts的默认主题 -->
+  <constant name="struts.ui.theme" value="simple"></constant>
+  
+  <!-- 引入其他的配置文件 -->
+  <!-- <include file="test/conf/test-struts.xml"></include> -->
+  
+  
+</struts>
